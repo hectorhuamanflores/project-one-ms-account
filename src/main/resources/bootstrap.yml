@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: ms-account
+  cloud:
+    config:
+      enabled: true
+      uri: http://localhost:8090
+  
+  
+#spring.data.mongodb.uri=mongodb+srv://bootcam-proyecto-01:z2MmbUXIH0ZOSUlm@cluster0.lds0o.mongodb.net/DB-ACCOUNT?retryWrites=true&w=majority
